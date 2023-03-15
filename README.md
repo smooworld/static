@@ -1,2 +1,2 @@
-# static
+# firstweb
 static website
